@@ -94,11 +94,11 @@ Cada padrão está em sua categoria correspondente, são elas: creational (criac
 
 ### Creational (Criacionais)
 
-#### Abstract
+#### Abstract Factory
 
-**PT:** Text.
+**PT:** Fornecer uma interface para a criação de famílias de objetos relacionados ou dependentes sem especificar suas classes concretas.
 
-**EN:** Text
+**EN:** Provide an interface for creating families of related or dependent objects without specifying their concrete classes.
 
 ***
 
@@ -138,33 +138,33 @@ Cada padrão está em sua categoria correspondente, são elas: creational (criac
 
 #### Adapter
 
-**PT:** Text.
+**PT:** Converter a interface esperada de uma classe em outra interface esperada pelos clientes. O Adapter permite que certas classes trabalhem em conjuntos, pois de outra forma seria impossível por causa de suas interfaces incompatíveis.
 
-**EN:** Text
+**EN:** Convert the expected interface of a class into another interface expected by clients. Adapter allows certain classes to work in sets that would otherwise be impossible because of their incompatible interfaces.
 
 ***
 
 #### Bridge
 
-**PT:** Text.
+**PT:** Bridge é um padrão de projeto estrutural que tem a intenção de desacoplar uma abstração da sua implementação, de modo que as duas possam variar e evoluir independentemente.
 
-**EN:** Text
+**EN:** Bridge is a structural design pattern that is intended to decouple an abstraction from its implementation so that the two can vary and evolve independently.
 
 ***
 
 #### Composite
 
-**PT:** Text.
+**PT:** Compor objetos em estruturas de árvore para representar hierarquias parte/todo. Composite permite aos clientes tratarem de maneira uniforme objetos individuais e composições de objetos.
 
-**EN:** Text
+**EN:** Compose objects into tree structures to represent part/whole hierarchies. Composite allows customers to uniformly handle individual objects and object compositions.
 
 ***
 
 #### Decorator
 
-**PT:** Text.
+**PT:** Agregar responsabilidades adicionais a um objeto dinamicamente. Os Decorators fornecem uma alternativa flexível ao uso de subclasses para extensão de funcionalidades.
 
-**EN:** Text
+**EN:** Add additional responsibilities to an object dynamically. Decorators provide a flexible alternative to using subclasses to extend functionality.
 
 ***
 
