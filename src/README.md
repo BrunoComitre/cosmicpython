@@ -22,9 +22,9 @@ Cada padrão está em sua categoria correspondente, são elas: creational (criac
 
 #### Command
 
-**PT:** Text.
+**PT:** Encapsular uma solicitação como um objeto, desta forma permitindo que você parametrize clientes com diferentes solicitações, enfileire ou registre (log) solicitações e suporte operações que podem ser desfeitas.
 
-**EN:** Text
+**EN:** Encapsulate a request as an object, thus allowing you to parameterize clients with different requests, queue or requests (log), and support undone operations.
 
 ***
 
@@ -70,9 +70,9 @@ Cada padrão está em sua categoria correspondente, são elas: creational (criac
 
 #### Strategy
 
-**PT:** Text.
+**PT:** Definir uma família de algoritmos, encapsular cada um deles e fazê-los intercambiáveis. O Strategy permite que o algoritmo varie independentemente dos clientes que utilizam.
 
-**EN:** Text
+**EN:** Define a family of algorithms, encapsulate each of them, and make them interchangeable. Strategy allows the algorithm to vary independently of the clients they use.
 
 ***
 
@@ -168,26 +168,26 @@ Cada padrão está em sua categoria correspondente, são elas: creational (criac
 
 ***
 
-#### Facade
+#### Façade
 
-**PT:** Text.
+**PT:** Façade (Fachada) é um padrão de projeto estrutural que tem a intenção de fornecer uma interface para um conjunto de interfaces em um subsistema. Façade define uma interface de nível mais alto que torna o subsistema mais fácil de ser usado.
 
-**EN:** Text
+**EN:** Façade is a structural design pattern that is intended to provide an interface to a set of interfaces in a subsystem. Façade defines a higher-level interface that makes the subsystem easier to use.
 
 ***
 
 #### Flyweight
 
-**PT:** Text.
+**PT:** Flyweight é um padrão de projeto estrutural que tem a intenção de usar compartilhamento para suportar eficientemente grandes quantidades de objetos de forma granular.
 
-**EN:** Text
+**EN:** Flyweight is a structural design pattern that is intended to use sharing to efficiently support large numbers of objects in a granular form.
 
 ***
 
 #### Proxy
 
-**PT:** Text.
+**PT:** Proxy é um padrão de projeto que tem a intenção de fornecer um substituto ou marcador de localização para outro objeto para controlar o acesso a esse objeto.
 
-**EN:** Text
+**EN:** Proxy is a design pattern that is intended to provide a surrogate or location marker for another object to control access to that object.
 
 ***
