@@ -14,9 +14,9 @@ Cada padrão está em sua categoria correspondente, são elas: creational (criac
 
 #### Chain Of Responsibility
 
-**PT:** Text.
+**PT:** Evita o acoplamento do remetente de uma solicitação ao seu destinatário, dando a mais de um objeto a chance de tratar a solicitação ao longo da cadeia até que o objeto a trate.
 
-**EN:** Text
+**EN:** Prevents the sender's coupling of a request to its recipient, giving more than one object a chance to handle the request along the chain until the object handles it.
 
 ***
 
@@ -30,41 +30,41 @@ Cada padrão está em sua categoria correspondente, são elas: creational (criac
 
 #### Iterator
 
-**PT:** Text.
+**PT:** Fornece uma maneira de acessar sequencialmente os elementos de um objeto agragado sem expor sua representação subjacente.
 
-**EN:** Text
+**EN:** Provides a way to sequentially access the elements of an aggregated object without exposing its underlying representation.
 
 ***
 
 #### Mediator
 
-**PT:** Text.
+**PT:** Define um objeto que encapsula como um conjunto de objetos interage. O Mediator promove o acoplamento fraco ao evitar que os objetos se refiram explicitamente uns aos outros, permitindo que você varie suas intenções.
 
-**EN:** Text
+**EN:** Defines an object that encapsulates how a set of objects interacts. Mediator promotes loose coupling by preventing objects from explicitly referring to each other, allowing you to vary your intentions.
 
 ***
 
 #### Memento
 
-**PT:** Text.
+**PT:** Sem violar o encapsulamento, captura e externaliza um estado interno de um objeto, de modo que o mesmo possa posteriormente ser restaurado para este estado.
 
-**EN:** Text
+**EN:** Without violating encapsulation, it captures and externalizes an object's internal state so that it can later be restored to that state.
 
 ***
 
 #### Observer
 
-**PT:** Text.
+**PT:** Define uma dependência um para muitos entre objetos, de modo que, quando um objeto muda de estado, todos os seus dependentes são automaticamente notificados e atualizados.
 
-**EN:** Text
+**EN:** Defines a one-to-many dependency between objects so that when an object changes state, all its dependents are automatically notified and updated.
 
 ***
 
 #### State
 
-**PT:** Text.
+**PT:** Permite que um objeto altere seu comportamento quando seu estado interno muda. O objeto parecerá ter mudado sua classe.
 
-**EN:** Text
+**EN:** Allows an object to change its behavior when its internal state changes. The object will appear to have changed its class.
 
 ***
 
@@ -76,19 +76,19 @@ Cada padrão está em sua categoria correspondente, são elas: creational (criac
 
 ***
 
-#### Template
+#### Template Method
 
-**PT:** Text.
+**PT:** Define o esqueleto de um algoritmo em uma operação, postergando a definição de alguns passos para subclasses. O Template Method permite que as subclasses redefinam certos passos de um algoritmo sem mudar sua estrutura.
 
-**EN:** Text
+**EN:** Defines the skeleton of an algorithm in one operation, postponing the definition of some steps for subclasses. The Template Method allows subclasses to redefine certain steps in an algorithm without changing its structure.
 
 ***
 
 #### Visitor
 
-**PT:** Text.
+**PT:** Representa uma operação a ser executada sobre os elementos da estrutura de um objeto. O Visitor permite que você separe um algoritmo dos elementos sobre os quais opera.
 
-**EN:** Text
+**EN:** Represents an operation to be performed on the elements of an object's structure. Visitor allows you to separate an algorithm from the elements it operates on.
 
 ***
 
@@ -110,7 +110,7 @@ Cada padrão está em sua categoria correspondente, são elas: creational (criac
 
 ***
 
-#### Factory
+#### Factory Method
 
 **PT:** Definir uma interface para criar um objeto, mas deixar as subclasses decidirem que classe instanciar. O Método Factory permite adiar a instanciação para as subclasses.
 
