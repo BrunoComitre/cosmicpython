@@ -73,5 +73,7 @@ Exercices book
   - [ ] [Refactoring](https://sourcemaking.com/refactoring)
 - [ ] Controle de Acesso
 - [ ] Logs
+- [ ] [Conventional Commits](https://www.conventionalcommits.org/pt-br/v1.0.0/)
+- [ ] [Semantic Versioning 2.0.0](https://semver.org/)
 
 ***
