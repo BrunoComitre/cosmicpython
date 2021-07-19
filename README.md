@@ -1,5 +1,12 @@
 # Cosmic Python
 
+<h1 align="center">
+  <img src="https://img.shields.io/badge/version-1.0.0-blue.svg?maxAge=2592000" />
+  <img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg" />
+</h1>
+
+&nbsp;
+
 Exercices book
 
 - [cosmic_python - Simple patterns for building complex applications](https://www.cosmicpython.com/)
