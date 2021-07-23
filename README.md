@@ -7,6 +7,11 @@
 
 &nbsp;
 
+# TO-DO:
+- [ ] PLENO/SENIOR One Line Understanding
+
+***
+
 Exercices book
 
 - [cosmic_python - Simple patterns for building complex applications](https://www.cosmicpython.com/)
@@ -84,3 +89,38 @@ Exercices book
 - [ ] [Semantic Versioning 2.0.0](https://semver.org/)
 
 ***
+
+## One Line Understanding
+
+- Matriz de Eisenhower:
+- Bullet Journal:
+- As Leis Vikings:
+- Semantic Version:
+- Conventional Commits:
+- Modelo em cascata:
+- SAGA Pattern:
+- Event Sourcing:
+- Event Bus:
+- Message Broker
+- Message Bus
+- Waterfall Model:
+- Iterative and Incremental Development:
+- CQRS:
+- Domain Driven Hexagonal:
+- Programação orientada a objetos:
+- Princípios SOLID:
+- Padrões de projeto:
+- Melhores práticas:
+- Princípios de design de software:
+- Design Patterns:
+- Ambient DEV:
+- Ambient PROD:
+- Ambient TEST:
+- Ambient QA:
+- Ambient STAG:
+- Arquitetura de containers:
+- Clean Architecture:
+- Full Cycle:
+
+***
+ 
