@@ -121,6 +121,12 @@ Exercices book
 - Arquitetura de containers:
 - Clean Architecture:
 - Full Cycle:
+- Docker: Um serviço de virtualização de nível de sistema operacional para entregar software em pacotes chamados contêineres.
+- Docker-compose: Ferramenta/arquivo para definir e executar aplicativos Docker de vários contêineres em um único arquivo.
+- APM: Application Performance Monitoring, responsável por monitorara tráfego de base, requests, e performance geral da aplicação.
+- Domínio da Aplicação: Onde fica o negócio/core do seu produto,onde fica localizada as classes que fazem parte do domínio do problema.
+- Terraform: Ferramenta onde os usuários definem e fornecem infraestrutura com configuração declarativa para ambientes, geralmente clouds.
+- Github Codeowners: Arquivo que define "responsáveis" por aquivos, assim quando um arquivo for modificado esse usuário irá saber.
 
 ***
  
