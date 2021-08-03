@@ -87,6 +87,7 @@ Exercices book
 - [ ] Logs
 - [ ] [Conventional Commits](https://www.conventionalcommits.org/pt-br/v1.0.0/)
 - [ ] [Semantic Versioning 2.0.0](https://semver.org/)
+- [ ] TDD, STDD, DDD, FDD, BDD, ATDD
 
 ***
 
@@ -127,6 +128,12 @@ Exercices book
 - Domínio da Aplicação: Onde fica o negócio/core do seu produto,onde fica localizada as classes que fazem parte do domínio do problema.
 - Terraform: Ferramenta onde os usuários definem e fornecem infraestrutura com configuração declarativa para ambientes, geralmente clouds.
 - Github Codeowners: Arquivo que define "responsáveis" por aquivos, assim quando um arquivo for modificado esse usuário irá saber.
+- TDD: Consiste da prática de antes de desenvolver uma funcionalidade, escrever testes de unidade, funcionais automatizados.
+- STDD: É uma extensão do TDD, se concentrando a partir de testes de aceitação de nível superior.
+- DDD: Utilização dos mesmos termos para negócio, sistemas, código-fonte, documentação entre outros.
+- FDD: Processo de cinco etapas onde requisitos são analisados e desdobrados em funcionalidades com o planejamento, o detalhamento e a execução orientado por funcionalidades.
+- BDD: Representar de maneira automatizada cenários de negócio e funcionalidades específicas. Pode ser feito a nível unitário, a nível funcional e até atender a requisitos não funcionais de forma automatizada.
+- ATDD: Fusão entre TDD e o BDD. Escrita de testes automatizados (unitários ou não) de critérios de aceite das histórias de usuário que serão desenvolvidas pela equipe ágil de desenvolvimento de software.
 
 ***
  
