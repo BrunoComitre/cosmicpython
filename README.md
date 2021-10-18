@@ -7,8 +7,18 @@
 
 &nbsp;
 
-# TO-DO:
-- [ ] PLENO/SENIOR One Line Understanding
+***
+
+## Python View Always
+
+- [Documentação Python](https://docs.python.org/3/) - Verificar Diariamente.
+- [Downloads Python Documentação](https://docs.python.org/3/download.html) - Fazer Download da documentação do Python para Máquina.
+- [PyPi](https://pypi.org/) - Para verificar os pacotes/módulos do Python.
+- [Zeal](https://zealdocs.org/) - Fazer Download Zeal para ter a documentação na máquina
+- [Python](https://www.python.org/) - Site Oficial.
+- [Doug Hellmann](https://doughellmann.com/projects/) - Blog Master para aprender Python.
+
+&nbsp;
 
 ***
 
@@ -134,6 +144,7 @@ Exercices book
 - FDD: Processo de cinco etapas onde requisitos são analisados e desdobrados em funcionalidades com o planejamento, o detalhamento e a execução orientado por funcionalidades.
 - BDD: Representar de maneira automatizada cenários de negócio e funcionalidades específicas. Pode ser feito a nível unitário, a nível funcional e até atender a requisitos não funcionais de forma automatizada.
 - ATDD: Fusão entre TDD e o BDD. Escrita de testes automatizados (unitários ou não) de critérios de aceite das histórias de usuário que serão desenvolvidas pela equipe ágil de desenvolvimento de software.
+- Entrypoint: Significa ponto de entrada. é o __main__ da onde se inicia a execução.
 
 ***
  
