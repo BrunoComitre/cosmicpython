@@ -1,4 +1,4 @@
-# V2
+# V3
 
 """
 01. donuts
@@ -11,7 +11,7 @@ Exemplo: donuts(5) retorna 'Number of donuts: 5'
 e donuts(23) retorna 'Number of donuts: many'
 """
 
-def donuts(count) -> str :
+def donuts(count: int) -> str :
     # +++ SUA SOLUÇÃO +++
     return f'Number of donuts: {count}' if count < 10 else f'Number of donuts: many'
 
