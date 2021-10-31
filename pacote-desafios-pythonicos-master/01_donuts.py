@@ -1,3 +1,5 @@
+# V1
+
 """
 01. donuts
 
@@ -9,12 +11,9 @@ Exemplo: donuts(5) retorna 'Number of donuts: 5'
 e donuts(23) retorna 'Number of donuts: many'
 """
 
-def donuts(count):
-    if count < 10:
-        return f'Number of donuts: {count}'
-    else:
-        return f'Number of donuts: many'
-    
+def donuts(count) -> str :
+    # +++ SUA SOLUÇÃO +++
+    return f'Number of donuts: {count}' if count < 10 else f'Number of donuts: many'
 
 
 # --- Daqui para baixo são apenas códigos auxiliáries de teste. ---
