@@ -1,4 +1,4 @@
-# V1
+# V2
 
 """
 02. both_ends
@@ -11,10 +11,7 @@ for menor que 2, retorne uma string vazia.
 
 def both_ends(string: str) -> str:
     # +++ SUA SOLUÇÃO +++
-    if len(string) <2:
-        return ''
-    else:
-        return string[:2] + string[-2:]
+    return '' if len(string) < 2 else string[:2] + string[-2:]
 
 
 # --- Daqui para baixo são apenas códigos auxiliáries de teste. ---
