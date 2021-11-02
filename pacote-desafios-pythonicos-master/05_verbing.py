@@ -1,4 +1,4 @@
-# V1
+# V2
 
 """
 05. verbing
@@ -14,14 +14,7 @@ Retorne o resultado da string.
 
 def verbing(s: str) -> str:
     # +++ SUA SOLUÇÃO +++
-    if len(s) >= 3 and s[-3:] == 'ing':
-        return s + 'ly'
-    elif len(s) >= 3:
-        return s + 'ing'
-    else:
-        return s
-
-
+    return s if len(s) < 3 else len(s) >= 3 and s[-3:] != 'ing' and s + 'ing' or s + 'ly'
 
 # --- Daqui para baixo são apenas códigos auxiliáries de teste. ---
 
